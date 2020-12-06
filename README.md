@@ -19,7 +19,7 @@
             trazer essa bagagem artísticas para meus projetos pessoais.
             <hr>
             <br>
-            I started programming in <strong>2020</strong> (HTML5; CSS3; JavaScript;) | <strong>2020</strong>
+            I started programming officially in <strong>2020</strong> (HTML5; CSS3; JavaScript;) | <strong>2020</strong>
             (Front-End)
             <br>
         </p>
