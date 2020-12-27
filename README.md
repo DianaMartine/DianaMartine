@@ -41,6 +41,8 @@
         <h3><strong>Estudando:</strong>
         </h3>
         <p>
+            PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="logo do php" width="2.3%">
+            <br>
             ES6+ <img src="https://xesque.rocketseat.dev/platform/1566444881250.png" alt="Logo da ES6+" width="2.3%">
             <br>
             NodeJS <img src="https://xesque.rocketseat.dev/platform/1564681946529.svg" alt="Logo do NodeJS"
