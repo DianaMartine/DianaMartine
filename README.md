@@ -28,7 +28,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/DianaMartine">
