@@ -57,8 +57,9 @@
         </p>
         <hr>
         <h3><strong>Status de desenvolvimento no GitHub:</strong></h3>
-            <img src="https://github-readme-stats.vercel.app/api?username=dianamartine&show_icons=true&theme=radical"
+            <img src="https://github-readme-stats.vercel.app/api?username=DianaMartine&show_icons=true&theme=midnight-purple"
                 alt="Status de desenvolvimento de Diana Martine no GitHub">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianaMartine&layout=compact&theme=midnight-purple">
     </section>
     <hr>
     <section>
