@@ -6,18 +6,24 @@
 <p>
     Sempre envolvida na área de informática e música, levo estes recursos para a vida profissional nas formas de expressão, facilidade de trabalhar em grupos, bom relacionamento com as pessoas, responsabilidade e espírito de liderança. Paixão por psicologia e novas experiências na área de comunicação, educação e fotografia. 
 
-### Conhecimentos nas áreas de programação:
+### Principais Skills:
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-05122A?style=for-the-badge&logo=microsoft-office)&nbsp;
+
+### Conhecimentos nas áreas de programação:
+
+![APACHE](https://img.shields.io/badge/-APACHE-05122A?style=for-the-badge&logo=apache)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
 
 ### Estudando no momento:
 
@@ -25,7 +31,8 @@
 
 ### Áreas de Interesse:
 
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=for-the-badge&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React_native-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 
 ### GitHub Analytics
