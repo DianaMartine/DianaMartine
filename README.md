@@ -17,7 +17,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-05122A?style=for-the-badge&logo=microsoft-office)&nbsp;
 
-### Conhecimentos nas áreas de programação:
+### Conhecimentos nas áreas:
 
 ![APACHE](https://img.shields.io/badge/-APACHE-05122A?style=for-the-badge&logo=apache)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL)&nbsp;
@@ -28,20 +28,18 @@
 ### Estudando no momento:
 
 ![PHP POO](https://img.shields.io/badge/-PHP_POO-05122A?style=for-the-badge&logo=php)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=for-the-badge&logo=react)&nbsp;
 
 ### Áreas de Interesse:
 
-![React.js](https://img.shields.io/badge/-React.js-05122A?style=for-the-badge&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_native-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 
 ### GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/DianaMartine">
   <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DianaMartine&show_icons=true&theme=midnight-purple"/>
   <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DianaMartine&layout=compact&langs_count=8&theme=midnight-purple"/>
-</a>
 </p>
 
 ### Diana Martine on social media:
