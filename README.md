@@ -1,5 +1,13 @@
 # Hi I'm Diana Martine
 
+```
+var dev = new Object();
+        dev.name = "Diana Martine";
+        dev.function = "Developer front-end and artist";
+      ;
+      console.log(dev);
+```
+
 ### Sobre Mim
 <p>
     Programadora e desenvolvedora Front-end certificada pelo programa de capacitação TRANS.FORMA ofertado pelo Porto Digital. Estudante de Psicologia (UNISÃOMIGUEL) e Análise e Desenvolvimento de Sistemas (UNINABUCO). Musicista profissional, violonista, multi-instrumentista.
