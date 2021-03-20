@@ -1,10 +1,11 @@
 # Hi I'm Diana Martine
 
 ```
-var dev = new Object();
-        dev.name = "Diana Martine";
-        dev.function = "Developer front-end and artist";
-      ;
+ function dev(name, age, work) {
+        this.name = "Diana Martine";
+        this.age = 23;
+        this.work = "Developer front-end and artist";
+      }
       console.log(dev);
 ```
 
