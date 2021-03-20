@@ -1,12 +1,13 @@
 # Hi I'm Diana Martine
 
 ```
- function dev(name, age, work) {
-        this.name = "Diana Martine";
-        this.age = 23;
-        this.work = "Developer front-end and artist";
+function dev(name, age, work) {
+        this.name = name;
+        this.age = age;
+        this.work = work;
       }
-      console.log(dev);
+      var dianaMartine = new dev('Diana Martine', 23, 'Developer front-end and artist');
+      console.log(dianaMartine);
 ```
 
 ### Sobre Mim
