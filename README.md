@@ -43,6 +43,7 @@ function dev(name, age, work) {
 
 ![PHP POO](https://img.shields.io/badge/-PHP_POO-05122A?style=for-the-badge&logo=php)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=for-the-badge&logo=react)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
 
 ### Áreas de Interesse:
 
