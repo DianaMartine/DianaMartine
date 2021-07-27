@@ -36,15 +36,15 @@ function dev(name, age, work) {
 
 ### Conhecimentos nas áreas:
 
+![PHP POO](https://img.shields.io/badge/-PHP_POO-05122A?style=for-the-badge&logo=php)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=for-the-badge&logo=react)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
 ![APACHE](https://img.shields.io/badge/-APACHE-05122A?style=for-the-badge&logo=apache)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
 
 ### Estudando no momento:
 
-![PHP POO](https://img.shields.io/badge/-PHP_POO-05122A?style=for-the-badge&logo=php)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-05122A?style=for-the-badge&logo=react)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
 ![Angular](https://img.shields.io/badge/-angular-05122A?style=for-the-badge&logo=angular)&nbsp;
 
 ### Áreas de Interesse:
@@ -52,7 +52,7 @@ function dev(name, age, work) {
 ![React Native](https://img.shields.io/badge/-React_native-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 
-### GitHub Analytics
+### GitHub Analytics:
 
 <p align="left">
   <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DianaMartine&show_icons=true&theme=midnight-purple"/>
