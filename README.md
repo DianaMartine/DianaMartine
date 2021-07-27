@@ -37,6 +37,7 @@ function dev(name, age, work) {
 ### Conhecimentos nas áreas:
 
 ![PHP POO](https://img.shields.io/badge/-PHP_POO-05122A?style=for-the-badge&logo=php)&nbsp;
+![typescript](https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
 ![APACHE](https://img.shields.io/badge/-APACHE-05122A?style=for-the-badge&logo=apache)&nbsp;
