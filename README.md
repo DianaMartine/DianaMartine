@@ -43,6 +43,7 @@ function dev(name, age, work) {
 ![APACHE](https://img.shields.io/badge/-APACHE-05122A?style=for-the-badge&logo=apache)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 
 ### Estudando no momento:
 
@@ -51,7 +52,6 @@ function dev(name, age, work) {
 ### Áreas de Interesse:
 
 ![React Native](https://img.shields.io/badge/-React_native-05122A?style=for-the-badge&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 
 ### GitHub Analytics:
 
