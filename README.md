@@ -6,7 +6,7 @@ function dev(name, age, work) {
         this.age = age;
         this.work = work;
       }
-      let dianaMartine = new dev('Diana Martine', 23, 'Developer front-end and artist');
+      let dianaMartine = new dev('Diana Martine', 24, 'Front-end developer and artist');
       console.log(dianaMartine);
 ```
 
@@ -21,6 +21,7 @@ function dev(name, age, work) {
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=for-the-badge&logo=react)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java)&nbsp;
 
@@ -38,7 +39,6 @@ function dev(name, age, work) {
 
 ![PHP POO](https://img.shields.io/badge/-PHP_POO-05122A?style=for-the-badge&logo=php)&nbsp;
 ![typescript](https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
 ![APACHE](https://img.shields.io/badge/-APACHE-05122A?style=for-the-badge&logo=apache)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL)&nbsp;
@@ -66,4 +66,6 @@ function dev(name, age, work) {
 <a href="mailto:diana_martine@outlook.com"><img src="https://img.shields.io/badge/-diana__martine@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
     </a>
 <a href="https://instagram.com/diana_martine__"><img src="https://img.shields.io/badge/-@diana__martine___-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/transdevoficial"><img src="https://img.shields.io/badge/-@transdevoficial-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
 </p>
