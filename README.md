@@ -57,7 +57,6 @@ function dev(name, age, work) {
 
 <p align="left">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=dianamartine&title_color=e152aa&icon_color=ff66c4&text_color=5ce1e6&bg_color=1f004e&border_color=whitec&show_icons=true"/>
-        <hr>
   <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dianamartine&layout=compact&title_color=e152aa&icon_color=ff66c4&text_color=5ce1e6&bg_color=1f004e&show_icons=true"/>
 </p>
 
