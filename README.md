@@ -56,8 +56,8 @@ function dev(name, age, work) {
 ### GitHub Analytics:
 
 <p align="left">
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DianaMartine&show_icons=true&theme=midnight-purple"/>
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DianaMartine&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=dianamartine&title_color=e152aa&icon_color=ff66c4&text_color=5ce1e6&bg_color=1f004e&border_color=2c2c2c&show_icons=true"/>
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dianamartine&layout=compact&title_color=e152aa&icon_color=ff66c4&text_color=5ce1e6&bg_color=1f004e&border_color=2c2c2c&show_icons=true"/>
 </p>
 
 ### Diana Martine on social media:
