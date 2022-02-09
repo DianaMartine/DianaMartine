@@ -1,6 +1,6 @@
 # Hi I'm Diana Martine
 
-```
+<pre>
 function dev(name, age, work) {
         this.name = name;
         this.age = age;
@@ -8,7 +8,7 @@ function dev(name, age, work) {
       }
       let dianaMartine = new dev('Diana Martine', 24, 'Front-end developer and artist');
       console.log(dianaMartine);
-```
+</pre>
 
 ### About me:
 <p>
