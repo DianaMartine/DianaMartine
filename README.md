@@ -1,14 +1,15 @@
 # Hi I'm Diana Martine
 
-<pre>
+```javascript
 function dev(name, age, work) {
         this.name = name;
         this.age = age;
         this.work = work;
-      }
-      let dianaMartine = new dev('Diana Martine', 24, 'Front-end developer and artist');
-      console.log(dianaMartine);
-</pre>
+}
+
+let dianaMartine = new dev('Diana Martine', 25, 'Front-end developer and artist');
+console.log(dianaMartine);
+```
 
 ### About me:
 <p>
@@ -48,6 +49,7 @@ function dev(name, age, work) {
 ### Studying in this moment:
 
 ![Angular](https://img.shields.io/badge/-angular-e152aa?style=for-the-badge&logo=angular&labelColor=1f004e)&nbsp;
+![Storybook](https://img.shields.io/badge/-storybook-e152aa?style=for-the-badge&logo=storybook&labelColor=1f004e)&nbsp;
 
 ### Areas of Interest:
 
