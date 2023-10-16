@@ -9,7 +9,7 @@ function dev(name, age, work) {
         this.work = work;
 }
 
-let dianaMartine = new dev('Diana Martine', 25, 'Front-end developer and artist');
+let dianaMartine = new dev('Diana Martine', 26, 'Front-end developer and artist');
 console.log(dianaMartine);
 ```
 
