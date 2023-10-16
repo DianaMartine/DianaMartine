@@ -1,4 +1,4 @@
-<img src='https://images.weserv.nl/?url=github.com/transdevoficial.png?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d' />
+<img src='https://images.weserv.nl/?url=github.com/dianamartine.png?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d' />
 
 # Hi, I'm Diana Martine.
 
@@ -19,43 +19,38 @@ console.log(dianaMartine);
 <p>
     Always involved with technology and music, I take these resources to professional life in forms of expression. I have ease to work with groups, good relationship with people, responsibility and spirit of leadership. I have a passion for psychology and new experiences in communication education and photography.
 
-### Main skills:
+### Languages:
 
-![HTML](https://img.shields.io/badge/-HTML-e152aa?style=for-the-badge&logo=html5&labelColor=1f004e)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-e152aa?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1f004e)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-e152aa?style=for-the-badge&logo=javascript&labelColor=1f004e)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-e152aa?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-e152aa?style=for-the-badge&logo=php&labelColor=1f004e)&nbsp;
-![Java](https://img.shields.io/badge/-Java-e152aa?style=for-the-badge&logo=java&labelColor=1f004e)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
-### Tools:
+### Frameworks:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-e152aa?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=1f004e)&nbsp;
-![Git](https://img.shields.io/badge/-Git-e152aa?style=for-the-badge&logo=git&labelColor=1f004e)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-e152aa?style=for-the-badge&logo=github&labelColor=1f004e)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-e152aa?style=for-the-badge&logo=adobe-photoshop&labelColor=1f004e)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-e152aa?style=for-the-badge&logo=windows&labelColor=1f004e)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-e152aa?style=for-the-badge&logo=microsoft-office&labelColor=1f004e)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-e152aa?style=for-the-badge&logo=linux&labelColor=1f004e)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
 
-### Other Knowledge:
+### Tool:
 
-![PHP POO](https://img.shields.io/badge/-PHP_POO-e152aa?style=for-the-badge&logo=php&labelColor=1f004e)&nbsp;
-![typescript](https://img.shields.io/badge/-typescript-e152aa?style=for-the-badge&logo=typescript&labelColor=1f004e)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-e152aa?style=for-the-badge&logo=bootstrap&labelColor=1f004e)&nbsp;
-![APACHE](https://img.shields.io/badge/-APACHE-e152aa?style=for-the-badge&logo=apache&labelColor=1f004e)&nbsp;
-![MYSQL](https://img.shields.io/badge/-MYSQL-e152aa?style=for-the-badge&logo=MYSQL&labelColor=1f004e)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-e152aa?style=for-the-badge&logo=markdown&labelColor=1f004e)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-e152aa?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;
-
-### Studying in this moment:
-
-![Angular](https://img.shields.io/badge/-angular-e152aa?style=for-the-badge&logo=angular&labelColor=1f004e)&nbsp;
-![Storybook](https://img.shields.io/badge/-storybook-e152aa?style=for-the-badge&logo=storybook&labelColor=1f004e)&nbsp;
-
-### Areas of Interest:
-
-![React Native](https://img.shields.io/badge/-React_native-e152aa?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
 ### GitHub Analytics:
 
@@ -67,9 +62,6 @@ console.log(dianaMartine);
 ### Diana Martine on social media:
 
 <a href="https://www.linkedin.com/in/dianamartine/"><img src="https://img.shields.io/badge/-Diana_Martine-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:diana_martine@outlook.com"><img src="https://img.shields.io/badge/-diana__martine@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-    </a>
-<a href="https://instagram.com/martine.oficial"><img src="https://img.shields.io/badge/-@martine.oficial-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://instagram.com/transdevoficial"><img src="https://img.shields.io/badge/-@transdevoficial-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:diana_martine@outlook.com"><img src="https://img.shields.io/badge/-diana__martine@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
 </p>
