@@ -2,14 +2,15 @@
 
 # Hi, I'm Diana Martine.
 
-```javascript
-function dev(name, age, work) {
-        this.name = name;
-        this.work = work;
+```typescript
+type Dev = { name: string; role: string; };
+class Developer implements Dev {
+    name: string; role: string;
+    constructor(name: string, role: string) { this.name = name; this.role = role; }
+    getDeveloper() { return `${this.name} is a ${this.role}`; }
 }
-
-let dianaMartine = new dev('Diana Martine', 'Front-end developer');
-console.log(dianaMartine);
+const dev = new Developer('Diana Martine', 'Frontend Developer');
+console.log(dev.getDeveloper());
 ```
 
 ### About me:
