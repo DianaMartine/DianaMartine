@@ -5,11 +5,10 @@
 ```javascript
 function dev(name, age, work) {
         this.name = name;
-        this.age = age;
         this.work = work;
 }
 
-let dianaMartine = new dev('Diana Martine', 26, 'Front-end developer and artist');
+let dianaMartine = new dev('Diana Martine', 'Front-end developer');
 console.log(dianaMartine);
 ```
 
