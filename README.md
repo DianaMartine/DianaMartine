@@ -67,5 +67,7 @@ Front-end developer with experience in **React, JavaScript, TypeScript** and API
 ### GitHub Analytics:
 ![Diana Martine's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianamartine&title_color=FF66C4&text_color=f2f2f2&icon_color=BB3186&bg_color=0D0126&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true&text_bold=true)
 
+[![Diana Martine's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianamartine&layout=donut&title_color=FF66C4&text_color=f2f2f2&bg_color=0D0126&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact
 📧 [Email](mailto:diana_martine@outlook.com)
